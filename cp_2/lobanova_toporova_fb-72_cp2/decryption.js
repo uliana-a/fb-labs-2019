@@ -53,8 +53,10 @@ const findMostFreq = (text) => {
 
 const findKey = (freqLetters) => {
     let key = '';
-    freqLetters.forEach(letter => {
-        let index = (alphabet[letter] - alphabet['о'] + 32) % 32;
+    freqLetters.forEach((letter, i) => {
+        let index = (alphabet[letter] - alphabet[`${
+            i === 3 || i === 14 ? 'а' : i === 10 ? 'и' : 'о'
+        }`] + 32) % 32;
         key += Object.keys(alphabet).find(key => alphabet[key] === index);
     });
     return key;
@@ -67,8 +69,10 @@ const decrypt = (text, key) => {
         const index = (alphabet[text[i]] - alphabet[key[i % keyLength]] + 32) % 32;
         result += Object.keys(alphabet).find(key => alphabet[key] === index);
     }
-    console.log(result)
+    fs.appendFileSync('results.txt', `\nРозшифрований текст:\n${result}`);
 }
+
+fs.appendFileSync('results.txt', '\nРОЗШИФРУВАННЯ\n')
 
 let keyLength = 2;
 while (keyLength <= 30) {
@@ -79,7 +83,6 @@ while (keyLength <= 30) {
 const blocks = breakIntoBlocks();
 
 const mostFreq = blocks.map(findMostFreq);
-
-decrypt(cipher, findKey(mostFreq));
+decrypt(cipher, findKey(mostFreq))
 
 
