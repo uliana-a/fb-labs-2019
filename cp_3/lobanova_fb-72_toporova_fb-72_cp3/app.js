@@ -27,9 +27,9 @@ const getFiveMostFreq = (text) => {
     for (let i in sorted) {
         result.push(sorted[i][0]);
     }
-    fs.appendFileSync('results.txt', 'Five most frequent bigram:\n');
+    fs.appendFileSync('results.txt', 'Five most frequent bigram:\n'); 
     result.forEach((val, i) => {
-        fs.appendFileSync('results.txt', `${i + 1}: ${val}\n`);
+        fs.appendFileSync('results.txt', `${i + 1}: ${val}\n`); 
     })
     return result;
 }
@@ -127,7 +127,10 @@ const findBigramsComb = (theory, bigrams) => {
 
 const decipher = (cipher, a, b, alphabet) => {
     let text = '';
-    if (getGcd(961, a) !== 1) return;
+    if (getGcd(961, a) !== 1) {
+        fs.appendFileSync('results.txt', "iversed doesn't exist\n");
+        return;
+    }
     let inverse = euclideanAlgorithm(961, a);
     inverse = inverse >= 0 ? inverse : inverse + 961;
 
@@ -143,13 +146,22 @@ const decipher = (cipher, a, b, alphabet) => {
 const checkText = (text) => {
     const notExisting = ['аь', 'оь', 'уь', 'еь', 'ыь', 'иь', 'эь', 'яь', 'юь', 'йь', 'йй', 'ьь', 'ыы', 'ьы'];
     
-    return !notExisting.some(bg => text.indexOf(bg) + 1);
+    return !notExisting.some(bg => {
+        if (text.indexOf(bg) + 1) {
+            fs.appendFileSync('results.txt', `there is a bigram ${bg}, this text isn't correct\n`);
+            return true;
+        }
+    });
 }
 
 const getText = (keys, cipher, alphabet) => {
     for (let i in keys) {
+        fs.appendFileSync('results.txt', `key: (${keys[i].a}, ${keys[i].b})\n`);
         const text = decipher(cipher, keys[i].a, keys[i].b, alphabet);
-        if (text && checkText(text)) fs.appendFileSync('results.txt', text);
+        if (text && checkText(text)) {
+            fs.appendFileSync('decrypted.txt', text);
+            fs.appendFileSync('results.txt', '\n\nCorrect text\n\n');
+        }
     }
 }
  

@@ -4,4 +4,400 @@ Five most frequent bigram:
 3: чф
 4: гн
 5: цг
-мамапошламытьпосудуитомотправилсязанейкаждыйзвукзвонложкиилитарелкигулкораздавалсявзнойномвечернемвоздухепотомонимолчапошливбольшуюкомнатуснялисдиванаподушкивдвоемраскрылиегоиразложиливедьнасамомделеэтобылвовсенедиванашироченнаякроватьмамапостелилаимсдугласомпостельловковзбилаподушкитомначалбылорасстегиватьрубашкуноонасказалапогодиминуткутомпочемунадотыкакаяточуднаямамонаопустиласьнастулносразужевсталаподошлакдвериипозвалаоназваласноваисновадугласдугдуугееголосуплывалвдушнуютьмуитонулвнейбезвсякогооткликадажеэхонеотвечалодугласдугласдугласдуууглааастомсиделнаполуиегопронизывалхолодновинойтомубылонемороженоеинезимаинелетнийзнойонвиделмаматорастерянноозираетсятозакрываетглазастоитинезнаетчтоделатьиоченьволнуетсядасразувиднорастерянаиволнуетсяонаоткрыладверьверандышагнулавтемнотуспустиласьпоступенькампрошлаподорожкеподкустысиренитомприслушивалсякеешагамонаопятьпозваламолчаниеонапозвалаещедваразатомвсесиделвкомнатевотсейчассдлиннойдлиннойузкойулицыдонесетсяголосдугласаидумамнебеспокойсяяидунодугласнеотвечалтомдолгиедвеминутысиделглядянараскрытуюпостельнамолчащеерадиоимолчащийпатефонналюстругдекакнивчемнебывалопоблескивалистеклянныевисюлькинаковеррасписанныйпунцовымиифиолетовымизавитушкамипотомнарочностукнулногойокроватьчтобыпоглядетьбудетлибольнооказалосьбольнодверьверандысоскрипомотвориласьимамасказалапойдемтомпройдемсякудапростопоулицеидемонвзялеезарукуонипошлипосентджеймсстритасфальтподногамибылвсеещетеплыйсверчкистрекоталигромчепрежнеговсгущавшейсятьмеонидошлидоугласвернулиидвинулисьпонаправлениюкзападномуоврагугдетопроплылавтомобильсверкнулвдалифараминаулицахникакихпризнаковжизнинисветанидвижениякоегдепозадимерцалислабоосвещенныеквадратыоконвтойсторонеоткудаонишлиневсеещелеглиспатьнооченьоченьмногиедомаужестоялибезогнейиспалиапереднекоторымитожетемныминакрылечкахсиделиихобитателиивполголосавеливечернююбеседукоегденаверандахпоскрипываликачелихотьбыотецбылдомасказаламамаонасжималавсвоейбольшойрукерукутоманупостойдаймнетолькодобратьсядоэтогомальчишкидушегубопятьвышелнаохотуонубиваетлюдейвсемгрозитопасностьниктонезнаетгдеикогдаонвдругпоявитсявотклянусьпустьтолькодугпридетдомойяеготакотколочувекбудетпомнитьонипрошлиещекварталитеперьстоялипередчернымсилуэтомнемецкойбаптистскойцерквинауглучепелстритигленроквсотнешаговзацерковьюначиналсяоврагтомужечуялегооттудатянулоканализационнойтрубойсгнившимилистьямидушнымивлажнымзапахомсплошныхзеленыхзарослейоврагбылширокийизвилистыйонперерезалгородимамавсегдаговорилачтоэтоиднемтонепроходимыедебриаужночьюкнемулучшеиблизконеподходитьоттогочторядомцерковьстрахидолжныбырассеятьсянотомувсеравнобыложутковэтотчастемнаябезединогоогонькаонаказаласьхолоднойибесполезнойразвалинойнакраюоврагатомубыловсегодесятьлетонничеготолкомнезналосмертистрахеужасесмертьэтовосковаякуклавящикеонвиделеевшестьлеттогдаумерегопрадедушкаилежалвгробуточноогромныйупавшийястреббезмолвныйидалекийникогдабольшеоннескажетчтонадобытьхорошиммальчикомникогдабольшенебудетспоритьополитикесмертьэтоегомаленькаясестренкаоднаждыутромемубыловтовремясемьлетонпроснулсязаглянулвееколыбелькуаонасмотритпрямонанегозастывшимислепымисинимиглазамиапотомпришлилюдииунеслиеевмаленькойплетенойкорзинкесмертьэтокогдаонмесяцспустястоялвозлееевысокогостульчикаивдругпонялчтоонаникогдабольшенебудеттутсидетьнебудетсмеятьсяилиплакатьиемууженебудетдосадночтоонародиласьнасветэтоибыласмертьиещесмертьэтодушегубкоторыйподкрадываетсяневидимкойипрячетсязадеревьямиибродитпоокругеивыжидаетиразилидвавгодприходитсюдавэтотгороднаэтиулицыгдевечерамивсегдатемночтобыубитьженщинузапоследниетригодаонубилтрехэтосмертьносейчастутнепростосмертьвэтойлетнейночиподдалекимизвездаминанегоразомнахлынуловсечтоониспыталвиделислышалзавсюсвоюжизньионзахлебывалсяитонулонисошлистротуараизашагалипопротоптаннойусыпаннойщебнемтропинкепообестороныгусторосласорнаятраваивнейгромконеумолчнотрещалисверчкитомпослушношелзаматерьюбольшойхрабройпрекраснойегозащитницейотвсегосветатаквдвоемонишлиишлиивотостановилисьнасамомкраюцивилизацииоврагздесьвэтойпропастипосредичернойчащобывдругсосредоточилосьвсечегоонникогданеузнаетинепойметвсечтоживетбезыменноевнепрогляднойтенидеревьеввудушливомзапахегниенияаведьонисматерьюздесьсовсемоднииеерукадрожитдадрожитемунепочудилосьноотчегомамаведьбольшесильнееумнееегонеужелиионатожечувствуетэтунеуловимуюугрозутозловещеечтозатаилосьтамвнизуисейчасвыползетизтемнотызначитможновырастиивсеравнонестатьсильнымзначитстатьвзрослымвовсенеутешениезначитвжизнинетприбежищанеттакойнадежнойцитаделичтоустоялабыпротивнадвигающихсяужасовночисомненияразрывалиегомороженоевновьобожглоемухолодомгорловсевнутрипохолоделопоспинепошелморозоледенелирукииногиемувдругсталооченьзябкоточновновьналетелизпрошлогодекабрьскийветертаквотоночтозначитэтоучастьвсехлюдейкаждыйчеловекдлясебяодинединственныйнасветеодинединственныйсампосебесредивеликогомножествадругихлюдейивсегдабоитсявоткаксейчаснузакричишьстанешьзватьнапомощькомукакоеделотьмапоглотитводномгновеньеодночудовищноеледенящеемгновеньеивсеконченоещезадолгодорассветазадолгодотогокакполицейскиеначнутпрощупыватьсвоимифонарикамитемнуюрастревоженнуютропинкуинанейзашуршитщебеньподногамилюдейкоторыевсмятениикинутсянапомощьидажееслионисейчастольковпятистахшагахоттебяаужнавернотаконоиестьтемныйприбойможетзахлестнутьзатрисекундыиотнятьутебявсетвоидесятьлетижизньэтоодиночествовнезапноеоткрытиеобрушилосьнатомакаксокрушительныйударионзадрожалмаматожеодинокавэтуминутуейнечегонадеятьсянинасвятостьбраканиназащитулюбящейсемьининаконституциюсоединенныхштатовнинаполициюейнеккомуобратитьсякромесобственногосердцаавсердцесвоемонанайдетлишьнеодолимоеотвращениеистрахвэтуминутупередкаждымстоитсвоятолькосвоязадачаикаждыйдолженсамеерешитьтысовсемодинпоймиэторазинавсегдатомпроглотилкомокзастрявшийвгорлеиприжалсякматеригосподинедайейумеретьмолилоннеделайнамничегоплохогопапапридетссобраниячерезчасиеслидоманикогонебудетматьдвинуласьпотропинкевдикуючащумамтызадуганебойсядрожащимголосомсказалтомснимничегонеслучилосьтызанегонебойсяснимничегонеслучилосьонвсегдавозвращаетсяэтимпутемголосматеризвенелотнапряженияясторазговорилаемуходидругойдорогойноэтипроклятыемальчишкивсеравнолезутнапроломкогданибудьонпойдеттудаибольшеневернетсябольшеневернетсяэтоможетозначатьчтоугоднобродягипреступникитьманесчастныйслучайаглавноесмертьодинвовсейвселеннойнасветемиллионтакихгородишекивкаждомтакжетемнотакжеодинококаждыйтакжеотвсегоотрешенвкаждомсвоиужасыисвоитайныпронзительныезаунывныезвукискрипкивотмузыкаэтихгородишекбезсветаносомножествомтенейакакоенеобятноенепомерноеодиночествоаневедомыеоврагичтозасасываюткактрясинажизньвэтихгородишкахпоночамоборачиваетсяледенящимужасомразумусемьедетямсчастьюсовсехсторонгрозитчудищеимякоторомусмертьматьсновагромкопозвалавтемнотудугласдугивдругобапочувствоваличтотослучилосьсверчкиумолклисталосовсемтихоонинезналчтобываеттакаятишинабеспредельнаябездыханнаятишинаотчегозамолчалисверчкиотчегокакаяэтомупричинапреждеониникогданеумолкалиникогдазначитзначитсейчасчтотослучитсяказалосьоврагнапрягаетсвоичерныемышцывбираетвсебявсесилыспящихгородковифермнамногиемиливокругвеликаятишинапропитанныхросойлесовидолининакатывающихсякакприбойхолмовгдесобакизадравмордывоютналунувсясобираласьстекаласьстягиваласьводнуточкуивсамомсердцетишиныбылионимамаитомвотсейчассиюминутучтотослучитсячтотослучитсясверчкивсемолчатзвездыопустилисьтакнизкочтокажетсяпротянирукуинапальцахостанетсяпозолотаихнесчестьзвездонижаркиеколючиевсерастетразбухаеттишинавсеострейнапряженнейожиданиеохкактемнопустыннокакбесприютноивдругдалекодалекозаоврагомголосяздесьмамидумамаисновамамамамидушлепшлепшлепмчатсяногивтеннисныхтуфляхподнуоврагасхохотомнесутсятроемальчишекбратдугласчарливудмениджонхафбегутхохочутзвездывзвилисьвверхточнодесятьмиллионовужаленныхулитоквтянулисвоирожкисверчкизастрекоталитемнотаотступалаиспуганнаяошарашеннаязлобнаяотступилапотеряваппетитведьонасовсемужесобраласьпоживитьсяивдругейтакгрубопомешалиикогдатемнотаотхлынулаточноволнавовремяотливаизнеевозниклисмеясьтроемальчишекмамтомприветисразувокругзапахлодугласомведьотнеговсегдапахнетпотомтравойдеревьямиветвямииручьемвампредстоитпоркамолодойчеловекобявиламамаотеестраховиследанеосталосьтомзналонаникогдавжизниникомупроэтонерасскажетникогданострахэтотнавсегдаостанетсяунеевдушеивдушетоматожетемнойлетнейночьюонишлидомойспатькакхорошочтодугласживойкакхорошоанаоднусекундутамнакраюоврагаемуподумалосьгдетодалекопосмутномуозаренномулунойлесунадвиадукомпотомвнизуподолинепрогрохоталпоездонотчаянносвистелточнобезыменныйжелезныйзверьзаблудилсявночитомулегсявпостельрядомсбратомвесьдрожаонприслушивалсякэтомусвистуидумалдалекодалекотамгдесейчасмчитсяпоезджилихдвоюродныйбратиумеротвоспалениялегкихмноголетназадвотвтакуюженочьдугласлежалрядомотнегопахлопотомиэтобылокакволшебствотомпересталдрожатьтолькодвевещиязнаюнавернякадугпрошепталонкакиеодначтоночьюужаснотемноадругаяеслимистерауфманкогданибудьвсамомделепостроитмашинусчастьясоврагомейвсеравнонесовладатьдугласнемногоподумалповторичтотысказалониумолклинаулицевнезапнораздалисьшагиближеближевотониужеподдеревьямивозледоманатротуаремамасосвоейкроватинегромкосказалапапаидетинеошибласьа
+key: (0, 896)
+iversed doesn't exist
+key: (502, 230)
+there is a bigram аь, this text isn't correct
+key: (693, 884)
+there is a bigram аь, this text isn't correct
+key: (254, 850)
+there is a bigram аь, this text isn't correct
+key: (642, 810)
+there is a bigram аь, this text isn't correct
+key: (219, 705)
+there is a bigram аь, this text isn't correct
+key: (913, 148)
+there is a bigram аь, this text isn't correct
+key: (777, 271)
+there is a bigram аь, this text isn't correct
+key: (617, 20)
+there is a bigram аь, this text isn't correct
+key: (802, 100)
+there is a bigram аь, this text isn't correct
+key: (127, 873)
+there is a bigram аь, this text isn't correct
+key: (647, 7)
+there is a bigram аь, this text isn't correct
+key: (750, 571)
+there is a bigram аь, this text isn't correct
+key: (820, 861)
+there is a bigram аь, this text isn't correct
+key: (439, 930)
+there is a bigram аь, this text isn't correct
+key: (882, 706)
+there is a bigram аь, this text isn't correct
+key: (103, 499)
+there is a bigram аь, this text isn't correct
+key: (31, 462)
+iversed doesn't exist
+key: (62, 28)
+iversed doesn't exist
+key: (93, 555)
+iversed doesn't exist
+key: (124, 121)
+iversed doesn't exist
+key: (155, 648)
+iversed doesn't exist
+key: (186, 214)
+iversed doesn't exist
+key: (217, 741)
+iversed doesn't exist
+key: (248, 307)
+iversed doesn't exist
+key: (279, 834)
+iversed doesn't exist
+key: (310, 400)
+iversed doesn't exist
+key: (341, 927)
+iversed doesn't exist
+key: (372, 493)
+iversed doesn't exist
+key: (403, 59)
+iversed doesn't exist
+key: (434, 586)
+iversed doesn't exist
+key: (465, 152)
+iversed doesn't exist
+key: (496, 679)
+iversed doesn't exist
+key: (527, 245)
+iversed doesn't exist
+key: (558, 772)
+iversed doesn't exist
+key: (589, 338)
+iversed doesn't exist
+key: (620, 865)
+iversed doesn't exist
+key: (651, 431)
+iversed doesn't exist
+key: (682, 958)
+iversed doesn't exist
+key: (713, 524)
+iversed doesn't exist
+key: (744, 90)
+iversed doesn't exist
+key: (775, 617)
+iversed doesn't exist
+key: (806, 183)
+iversed doesn't exist
+key: (837, 710)
+iversed doesn't exist
+key: (868, 276)
+iversed doesn't exist
+key: (899, 803)
+iversed doesn't exist
+key: (930, 369)
+iversed doesn't exist
+key: (459, 732)
+there is a bigram аь, this text isn't correct
+key: (644, 467)
+there is a bigram аь, this text isn't correct
+key: (883, 748)
+there is a bigram аь, this text isn't correct
+key: (742, 924)
+there is a bigram аь, this text isn't correct
+key: (101, 102)
+there is a bigram аь, this text isn't correct
+key: (904, 640)
+there is a bigram аь, this text isn't correct
+key: (159, 902)
+there is a bigram аь, this text isn't correct
+key: (914, 314)
+there is a bigram аь, this text isn't correct
+key: (331, 292)
+there is a bigram аь, this text isn't correct
+key: (141, 720)
+there is a bigram аь, this text isn't correct
+key: (738, 670)
+there is a bigram оь, this text isn't correct
+key: (221, 34)
+there is a bigram аь, this text isn't correct
+key: (268, 78)
+there is a bigram аь, this text isn't correct
+key: (317, 495)
+there is a bigram оь, this text isn't correct
+key: (193, 185)
+there is a bigram аь, this text isn't correct
+key: (753, 283)
+there is a bigram аь, this text isn't correct
+key: (48, 520)
+there is a bigram аь, this text isn't correct
+key: (860, 566)
+there is a bigram аь, this text isn't correct
+key: (178, 783)
+there is a bigram аь, this text isn't correct
+key: (809, 485)
+there is a bigram аь, this text isn't correct
+key: (834, 129)
+there is a bigram аь, this text isn't correct
+key: (47, 688)
+there is a bigram аь, this text isn't correct
+key: (450, 254)
+there is a bigram аь, this text isn't correct
+key: (242, 602)
+there is a bigram аь, this text isn't correct
+key: (522, 651)
+there is a bigram аь, this text isn't correct
+key: (223, 911)
+there is a bigram аь, this text isn't correct
+key: (269, 871)
+there is a bigram аь, this text isn't correct
+key: (707, 112)
+there is a bigram аь, this text isn't correct
+key: (768, 777)
+there is a bigram аь, this text isn't correct
+key: (511, 748)
+there is a bigram аь, this text isn't correct
+key: (184, 397)
+there is a bigram аь, this text isn't correct
+key: (783, 846)
+there is a bigram оь, this text isn't correct
+key: (780, 640)
+there is a bigram аь, this text isn't correct
+key: (314, 34)
+
+
+Correct text
+
+key: (579, 292)
+there is a bigram аь, this text isn't correct
+key: (79, 875)
+there is a bigram аь, this text isn't correct
+key: (319, 152)
+there is a bigram аь, this text isn't correct
+key: (78, 214)
+there is a bigram аь, this text isn't correct
+key: (208, 679)
+there is a bigram аь, this text isn't correct
+key: (344, 648)
+there is a bigram аь, this text isn't correct
+key: (57, 28)
+there is a bigram аь, this text isn't correct
+key: (152, 183)
+there is a bigram аь, this text isn't correct
+key: (181, 28)
+there is a bigram аь, this text isn't correct
+key: (211, 431)
+there is a bigram аь, this text isn't correct
+key: (630, 710)
+there is a bigram аь, this text isn't correct
+key: (719, 400)
+there is a bigram аь, this text isn't correct
+key: (382, 710)
+there is a bigram аь, this text isn't correct
+key: (858, 121)
+there is a bigram аь, this text isn't correct
+key: (740, 586)
+there is a bigram аь, this text isn't correct
+key: (692, 710)
+there is a bigram аь, this text isn't correct
+key: (678, 541)
+there is a bigram аь, this text isn't correct
+key: (220, 291)
+there is a bigram аь, this text isn't correct
+key: (523, 448)
+there is a bigram аь, this text isn't correct
+key: (936, 237)
+there is a bigram аь, this text isn't correct
+key: (300, 897)
+there is a bigram аь, this text isn't correct
+key: (395, 55)
+there is a bigram аь, this text isn't correct
+key: (393, 184)
+there is a bigram оь, this text isn't correct
+key: (108, 788)
+there is a bigram аь, this text isn't correct
+key: (318, 697)
+there is a bigram аь, this text isn't correct
+key: (628, 883)
+there is a bigram аь, this text isn't correct
+key: (422, 716)
+there is a bigram аь, this text isn't correct
+key: (283, 258)
+there is a bigram оь, this text isn't correct
+key: (418, 662)
+there is a bigram аь, this text isn't correct
+key: (21, 919)
+there is a bigram аь, this text isn't correct
+key: (661, 236)
+there is a bigram аь, this text isn't correct
+key: (270, 874)
+there is a bigram аь, this text isn't correct
+key: (409, 571)
+there is a bigram аь, this text isn't correct
+key: (643, 54)
+there is a bigram аь, this text isn't correct
+key: (94, 269)
+there is a bigram аь, this text isn't correct
+key: (299, 313)
+there is a bigram аь, this text isn't correct
+key: (741, 508)
+there is a bigram аь, this text isn't correct
+key: (543, 137)
+there is a bigram аь, this text isn't correct
+key: (946, 664)
+there is a bigram аь, this text isn't correct
+key: (56, 268)
+there is a bigram аь, this text isn't correct
+key: (566, 117)
+there is a bigram аь, this text isn't correct
+key: (691, 259)
+there is a bigram аь, this text isn't correct
+key: (257, 135)
+there is a bigram аь, this text isn't correct
+key: (867, 482)
+there is a bigram аь, this text isn't correct
+key: (61, 389)
+there is a bigram аь, this text isn't correct
+key: (477, 654)
+there is a bigram аь, this text isn't correct
+key: (438, 351)
+there is a bigram оь, this text isn't correct
+key: (15, 135)
+there is a bigram аь, this text isn't correct
+key: (568, 949)
+there is a bigram аь, this text isn't correct
+key: (704, 37)
+there is a bigram оь, this text isn't correct
+key: (68, 571)
+there is a bigram аь, this text isn't correct
+key: (333, 829)
+there is a bigram оь, this text isn't correct
+key: (900, 362)
+there is a bigram аь, this text isn't correct
+key: (764, 313)
+there is a bigram аь, this text isn't correct
+key: (25, 562)
+there is a bigram аь, this text isn't correct
+key: (940, 841)
+there is a bigram аь, this text isn't correct
+key: (905, 531)
+there is a bigram аь, this text isn't correct
+key: (853, 345)
+there is a bigram аь, this text isn't correct
+key: (552, 562)
+there is a bigram аь, this text isn't correct
+key: (893, 562)
+there is a bigram аь, this text isn't correct
+key: (539, 35)
+there is a bigram аь, this text isn't correct
+key: (662, 438)
+there is a bigram аь, this text isn't correct
+key: (484, 97)
+there is a bigram аь, this text isn't correct
+key: (197, 438)
+there is a bigram аь, this text isn't correct
+key: (583, 128)
+there is a bigram аь, this text isn't correct
+key: (175, 497)
+there is a bigram аь, this text isn't correct
+key: (831, 469)
+there is a bigram аь, this text isn't correct
+key: (133, 323)
+there is a bigram аь, this text isn't correct
+key: (601, 889)
+there is a bigram аь, this text isn't correct
+key: (487, 554)
+there is a bigram аь, this text isn't correct
+key: (105, 207)
+there is a bigram оь, this text isn't correct
+key: (447, 251)
+there is a bigram аь, this text isn't correct
+key: (378, 711)
+there is a bigram аь, this text isn't correct
+key: (813, 945)
+there is a bigram аь, this text isn't correct
+key: (388, 385)
+there is a bigram аь, this text isn't correct
+key: (360, 529)
+there is a bigram аь, this text isn't correct
+key: (637, 340)
+there is a bigram аь, this text isn't correct
+key: (278, 127)
+there is a bigram аь, this text isn't correct
+key: (786, 342)
+there is a bigram аь, this text isn't correct
+key: (148, 855)
+there is a bigram аь, this text isn't correct
+key: (272, 204)
+there is a bigram аь, this text isn't correct
+key: (394, 850)
+there is a bigram аь, this text isn't correct
+key: (474, 864)
+there is a bigram аь, this text isn't correct
+key: (324, 117)
+there is a bigram аь, this text isn't correct
+key: (76, 458)
+there is a bigram аь, this text isn't correct
+key: (421, 158)
+there is a bigram аь, this text isn't correct
+key: (130, 370)
+there is a bigram аь, this text isn't correct
+key: (689, 635)
+there is a bigram аь, this text isn't correct
+key: (760, 385)
+there is a bigram аь, this text isn't correct
+key: (856, 250)
+there is a bigram аь, this text isn't correct
+key: (885, 960)
+there is a bigram аь, this text isn't correct
+key: (495, 127)
+there is a bigram аь, this text isn't correct
+key: (828, 516)
+there is a bigram аь, this text isn't correct
+key: (573, 454)
+there is a bigram аь, this text isn't correct
+key: (567, 950)
+there is a bigram аь, this text isn't correct
+key: (201, 454)
+there is a bigram оь, this text isn't correct
+key: (514, 206)
+there is a bigram аь, this text isn't correct
+key: (683, 330)
+there is a bigram аь, this text isn't correct
+key: (540, 299)
+there is a bigram аь, this text isn't correct
+key: (466, 330)
+there is a bigram аь, this text isn't correct
+key: (18, 867)
+there is a bigram аь, this text isn't correct
+key: (312, 163)
+there is a bigram аь, this text isn't correct
+key: (235, 805)
+there is a bigram аь, this text isn't correct
+key: (943, 885)
+there is a bigram аь, this text isn't correct
+key: (785, 462)
+there is a bigram аь, this text isn't correct
+key: (851, 809)
+there is a bigram аь, this text isn't correct
+key: (649, 628)
+there is a bigram аь, this text isn't correct
+key: (176, 329)
+there is a bigram аь, this text isn't correct
+key: (765, 360)
+there is a bigram аь, this text isn't correct
+key: (27, 375)
+there is a bigram аь, this text isn't correct
+key: (726, 947)
+there is a bigram аь, this text isn't correct
+key: (196, 431)
+there is a bigram аь, this text isn't correct
+key: (696, 809)
+there is a bigram аь, this text isn't correct
+key: (110, 943)
+there is a bigram аь, this text isn't correct
+key: (934, 416)
+there is a bigram аь, this text isn't correct
+key: (265, 943)
+there is a bigram аь, this text isn't correct
